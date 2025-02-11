@@ -2,10 +2,6 @@
 
 <br>
 
-<br>
-
-<br>
-
 # Experimenting 
 # 1st level heading
 ## 2nd level heading
