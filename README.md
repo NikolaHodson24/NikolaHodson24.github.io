@@ -3,6 +3,7 @@
 #### 4rd level heading
 ###### 6th level heading
 ** Bold Text **
-* Italized text *
-_ Other Italized Text _
+_ Italized Text _
+~~ Strike through ~~
+*** Bold and Italic ***
   
