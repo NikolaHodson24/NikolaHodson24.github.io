@@ -39,7 +39,9 @@ git commit
 does it work with other text too
 ```
 
-[ maybe link to repo ](https://github.com/NikolaHodson24/NikolaHodson24.github.io/edit/main/README.md)
+[ maybe link to repo ](https://github.com/NikolaHodson24/NikolaHodson24.github.io)
+
+
 
 
 
