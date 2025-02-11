@@ -1,4 +1,9 @@
 # NikolaHodson24.github.io
+
+<br>
+
+# Experimenting 
+# 1st level heading
 ## 2nd level heading
 #### 4rd level heading
 ###### 6th level heading
@@ -17,3 +22,4 @@ _ Italized Text _
 <ins> underline </ins>
 
 > other text 
+
