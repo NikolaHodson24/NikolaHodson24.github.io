@@ -41,7 +41,9 @@ does it work with other text too
 
 [ maybe link to repo ](https://github.com/NikolaHodson24/NikolaHodson24.github.io)
 
-
+this should \
+create a new line \
+more text
 
 
 
