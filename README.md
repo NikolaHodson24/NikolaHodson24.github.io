@@ -21,20 +21,22 @@ _ Italized Text _
   
 <sub> subscript </sub> 
 
-'''
-git add
-git status
-git commit
-'''
-
-
-
-
-
-
 <sup> superscript </sup>
 
 <ins> underline </ins>
 
 > other text 
+
+
+```
+git add
+git status
+git commit
+```
+
+
+
+
+
+
 
